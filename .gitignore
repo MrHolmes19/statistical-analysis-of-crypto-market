@@ -1,0 +1,13 @@
+
+# Ignorados
+
+*.csv
+*.xlsx
+
+Simulacion*/
+
+Ejecucion*/
+
+Pruebas*/
+
+criterios.py
